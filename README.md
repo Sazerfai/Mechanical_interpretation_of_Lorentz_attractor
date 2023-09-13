@@ -1,0 +1,2 @@
+# Mechanical_interpretation_of_Lorentz_attractor
+Mechanical interpretation of the Lorentz attractor
